@@ -2,6 +2,7 @@ namespace BatataQuente.Tests
 {
     public class BatataQuenteTests
     {
+        //MetodoTestado_CenarioEsperado_CenarioTestado
         [Fact]
         public void Play_DeveRetornarFilaComUmJogadorAMenos_QuandoChamado()
         {
